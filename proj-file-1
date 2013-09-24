@@ -1,10 +1,35 @@
 a.	What is source control and how is it used in project development?
 
-
+    A source control system (also known as a Revision Control System or version control system) is a repository of files, 
+    often the files for the source code of computer programs, with monitored access. 
+    Every change made to the source is tracked, along with who made the change, why they made it, 
+    and references to problems fixed, or enhancements introduced, by the change.
+    
+    Version control systems are essential for any form of distributed, collaborative development. 
+    Whether it is the history of a wiki page or large software development project, 
+    the ability to track each change as it was made, 
+    and to reverse changes when necessary can make all the difference between a well managed and 
+    controlled process and an uncontrolled ‘first come, first served’ system. 
+    It can also serve as a mechanism for due diligence for software projects.
 
 b.	What does it mean to "clone" a repository from Github?
-
+    
+    To copy a git repository so you can add to it.
+    If you need to collaborate with someone on a project, 
+    or if you want to get a copy of a project so you can look at or use the code, 
+    you will clone it. You simply run the "git clone [url]" command with the URL of the project you want to copy.
 
 c.	What is Github and why should we use it?
-
+    
+    GitHub is a web-based interface for collaborating on software and documentation projects. 
+    It provides version control, issue tracking, and wiki space for hosted projects. GitHub uses Git, 
+    a distributed version control system used in the Linux kernel, the Android mobile platform, 
+    and other projects. GitHub offers both paid plans for private repositories, 
+    and free accounts for open source projects.
+    
+    Every change made to the source is tracked, along with who made the change, why they made it, 
+    and references to problems fixed, or enhancements introduced, by the change. Using Github unifies us programmers, 
+    we work as a team and helps us learn from one another.
+    
+   
 
